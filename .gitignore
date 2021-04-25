@@ -1,0 +1,5 @@
+#Build dir
+build/
+#Backup files
+*.bak
+*.dll
