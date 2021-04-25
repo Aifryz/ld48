@@ -22,6 +22,22 @@ set ( SRC
 	src/Torpedo.h
 	src/Treasure.cpp
 	src/Treasure.h
+	src/Enemy.cpp
+	src/Enemy.h
+	src/BackgroundLevel.cpp
+	src/BackgroundLevel.h
+	src/GameLevel.cpp
+	src/GameLevel.h
+	src/Gui.cpp
+	src/Gui.h
+	src/Level.cpp
+	src/Level.h
+	src/ParticlePack.cpp
+	src/ParticlePack.h
+	src/StartGui.cpp
+	src/StartGui.h
+	src/OverGui.cpp
+	src/OverGui.h
 )
 
 add_executable(ld48 ${SRC})
